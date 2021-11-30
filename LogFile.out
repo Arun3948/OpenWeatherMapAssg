@@ -1,0 +1,6 @@
+2021-11-30 19:11:749 INFO  TestLogs:42 - Preparing query parameter in HashMap
+2021-11-30 19:11:755 INFO  TestLogs:48 - Calling GET method for the OpenWeatherMap API
+2021-11-30 19:11:522 INFO  TestLogs:51 - Verifying Response Status Code
+2021-11-30 19:11:527 INFO  TestLogs:54 - Verifying City name in Response
+2021-11-30 19:11:888 INFO  TestLogs:58 - Checking Wind-->Speed value is present in Response body.
+2021-11-30 19:11:529 INFO  TestLogs:60 - Wind-->Speed : 1.54

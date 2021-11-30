@@ -1,0 +1,11 @@
+apiCore\APIBase.class
+pojoClasses\Clouds.class
+apiCore\BasicVerification.class
+pojoClasses\Coord.class
+pojoClasses\Weather.class
+pojoClasses\Main.class
+module\TestModule_01.class
+pojoClasses\Sys.class
+pojoClasses\Example.class
+pojoClasses\Wind.class
+utility\TestLogs.class
